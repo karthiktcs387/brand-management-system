@@ -63,7 +63,7 @@ brand-management-system/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone repository
 
