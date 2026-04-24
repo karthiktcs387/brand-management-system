@@ -17,7 +17,7 @@ Built using **Node.js, Express.js, MongoDB, and Vanilla JavaScript**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Backend:**
 - Node.js  
