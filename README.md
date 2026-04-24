@@ -5,15 +5,15 @@ Built using **Node.js, Express.js, MongoDB, and Vanilla JavaScript**.
 
 ---
 
-## 📌 Features
+##  Features
 
-- ➕ Add new brands  
-- 📋 View all brands  
-- ✅ Approve brand  
-- ❌ Reject brand  
-- 🔄 Real-time status updates  
-- 🌐 REST API integration  
-- 🎨 Clean UI  
+-  Add new brands  
+-  View all brands  
+-  Approve brand  
+-  Reject brand  
+-  Real-time status updates  
+-  REST API integration  
+-  Clean UI  
 
 ---
 
@@ -36,7 +36,7 @@ Built using **Node.js, Express.js, MongoDB, and Vanilla JavaScript**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 brand-management-system/
@@ -97,7 +97,7 @@ MONGO_URI=your_mongodb_connection_string
 npm run dev
 ```
 
-👉 Server runs at:  
+ Server runs at:  
 http://localhost:3000
 
 ---
@@ -115,7 +115,7 @@ http://127.0.0.1:5500
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Get all brands
 ```
@@ -134,7 +134,7 @@ PUT /api/brands/:id
 
 ---
 
-## 🧪 Sample Data
+##  Sample Data
 
 ```json
 {
@@ -149,23 +149,23 @@ PUT /api/brands/:id
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
-- 🔍 Search brands  
-- ✏️ Edit brand  
-- 🗑 Delete brand  
-- 📊 Dashboard stats  
-- 🔐 Authentication  
+-  Search brands  
+-  Edit brand  
+-  Delete brand  
+-  Dashboard stats  
+-  Authentication  
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Karthik  
 GitHub: https://github.com/karthikcs387
 
 ---
 
-## ⭐ Note
+##  Note
 
 This project was developed as part of a technical assignment.
